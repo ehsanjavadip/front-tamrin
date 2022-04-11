@@ -1,0 +1,39 @@
+/* Start Coding with [CSS] by Ehsan Javadi for {variables.css} */
+
+/* Variables List : */
+:root {
+    --text-color: #2c2c2c;
+    --height: 40px;
+    /* ------------------------ */
+    --primary: #6750A4;
+    --onprimary: #FFFFFF;
+    --shadow: #000000;
+    --radius: calc(var(--height)/2);
+    --textcolor: #FFFFFF;
+    --fontfamily: Roboto Medium;
+    --lineheight: 20px;
+    --fontsize: 14px;
+    --letterspacing: 0.1em;
+    --fontweight: 500;
+
+    /* ------------------- */
+    --secondarycontainer: #E8DEF8;
+    --onsecondarycontainer: #1E192B;
+    --onsecondary: #332D41;
+    /* -------------------- */
+
+    --surfacecolor: #FFFBFE;
+    --outlinecolor: #79747E;
+    --outlinewidth: 1dp;
+
+    /* Elevated Buttons Variables */
+    --surfacecolor: #FFFBFE;
+    --shadowcolor: 1px#000000;
+    --surfacetintcolor: #6750A4;
+
+    /* Filled Disabled : */
+    --onsurface :#1C1B1F;
+
+}
+
+/* Developed by Ehsan Javadi in Iran,Esfahan - (C) 2022 - COFFEE & LOVE */
