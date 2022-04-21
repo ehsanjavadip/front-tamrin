@@ -1,0 +1,12 @@
+:root {
+    /* Text Fields Variables */
+    --border : 1px solid gray;
+    --padding-left: 45px;
+    --padding-right: 45px;
+    --width : 280px;
+    --border-raduis: 3px;
+    --bg-color: transparent;
+    --text-color: #303030;
+    --text-color-icon: gray;
+    --font-size: 20px;
+}
