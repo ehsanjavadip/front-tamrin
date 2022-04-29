@@ -1,0 +1,79 @@
+.card-outlined {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: #79747E;
+    outline: 1px solid #79747E;
+}
+.card-outlined-body p {
+    text-align: center; 
+    margin-top: 45%;
+}
+
+/* Hover */
+.card-outlined-hover {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: #79747E;
+    outline: 1px solid #79747E;
+}
+.card-outlined-hover:hover {
+    box-shadow: #79747E;
+    background-color: #1C1B1F;
+    color: white;
+    opacity: 0.7;
+
+}
+/* Focused */
+.card-outlined-focus {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: #79747E;
+    outline: 1px solid #79747E;
+}
+.card-outlined-focus:focus {
+    box-shadow: #1C1B1F;
+    background-color: #1C1B1F;
+    color: white;
+    opacity: 0.7;
+}
+/* pressed */
+.card-outlined-active {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: #79747E;
+    outline: 1px solid #79747E;
+}
+.card-outlined-active:active {
+    box-shadow: #79747E;
+    background-color: #1C1B1F;
+    color: white;
+    opacity: 0.7;
+}
+/* dragged */
+.card-outlined-drag {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: #79747E;
+    outline: 1px solid #79747E;
+}
+.card-outlined-drag:drop-hover {
+    box-shadow: #79747E;
+    background-color: #1C1B1F;
+    color: white;
+    opacity: 0.7;
+}

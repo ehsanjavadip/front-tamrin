@@ -1,0 +1,67 @@
+.card-elevated {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.card-elevated-body p {
+    text-align: center; 
+    margin-top: 45%;
+}
+
+/* Hovered */
+.card-elevated-hover {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.card-elevated-hover:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 25px 0 rgba(0, 0, 0, 0.19);
+    background-color: #1C1B1F;
+    color: white;
+}
+/* Focused */
+.card-elevated-focus {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.card-elevated-focus:focus {
+    background-color: #1C1B1F;
+    color: white;
+}
+/* Pressed */
+.card-elevated-active {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.card-elevated-active:active {
+    background-color: #1C1B1F;
+    color: white;
+}
+/* Dragged */
+.card-elevated-drag {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #FFFBFE;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.card-elevated-drag:drop-hover {
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.2), 0 18px 35px 0 rgba(0, 0, 0, 0.19);
+    background-color: #1C1B1F;
+    color: white;
+}

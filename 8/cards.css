@@ -1,0 +1,13 @@
+/* Ehsan Javadi - Card.css File : */
+@import url(./components/elevatedcard.css); /*card elevated import*/
+@import url(./components/filledcard.css); /*card filled import*/
+@import url(./components/outlinedcard.css); /*card outlined import*/
+@import url('https://v1.fontapi.ir/css/Vazir'); /*vazir Import Link for Font Family*/
+
+body {margin: 0; padding: 0; background-color: #e5e5e5; font-family: Vazir; }
+h1 {text-align: center;}
+p.pmain {text-align: center; margin-top: -15px;}
+
+
+/* Main Part */
+.main {width: 800px; padding: 10px; background-color: white;  margin-left: auto; margin-right: auto; border-radius: 2px;} 

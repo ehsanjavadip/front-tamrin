@@ -1,0 +1,70 @@
+.card-filled {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #E7E0EC;
+    border-radius: 10px;
+    box-shadow: #000000;
+}
+.card-filled-body p {
+    text-align: center; 
+    margin-top: 45%;
+}
+
+/* Hover */
+.card-filled-hover {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #E7E0EC;
+    border-radius: 10px;
+    box-shadow: #000000;
+}
+.card-filled-hover:hover {
+    box-shadow: 1px 1px 1px #aaaaaa;
+    background-color: #1C1B1F;
+    color: white;
+    opacity: 0.7;
+}
+/* Focused */
+.card-filled-focus {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #E7E0EC;
+    border-radius: 10px;
+    box-shadow: #000000;
+}
+.card-filled-focus:focus {
+    background-color: #1C1B1F;
+    color: white;
+    opacity: 0.7;
+}
+/* Pressed */
+.card-filled-active {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #E7E0EC;
+    border-radius: 10px;
+    box-shadow: #000000;
+}
+.card-filled-active:active {
+    background-color: #1C1B1F;
+    color: white;
+    opacity: 0.7;
+}
+/* Dragged */
+.card-filled-drag {
+    width: 200px;
+    height: 200px; 
+    padding: 2px; 
+    background-color: #E7E0EC;
+    border-radius: 10px;
+    box-shadow: #000000;
+}
+.card-filled-drag:drop-hover {
+    background-color: #1C1B1F;
+    color: white;
+    opacity: 0.7;
+}
