@@ -1,0 +1,9 @@
+@import url(./responsive.css);
+
+/* Main Card Styles */
+.card {direction: rtl; width: 350px; background-color: white; margin-top: 20px; margin-right: 20px; overflow: hidden; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.card-body {padding: 15px;}
+.card-title {margin-top: -0px; font-size: 25px; cursor: default;}
+.card-details {word-wrap: break-word; color: gray; cursor: default;}
+.card-price {color: gray; cursor: default;}
+.btnorder {width: 100%; font-family: vazir; border: none; outline: none; padding: 10px; background-color: rgb(47, 150, 123); cursor: pointer; color: white;}

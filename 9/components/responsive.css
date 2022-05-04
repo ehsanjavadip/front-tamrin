@@ -1,0 +1,9 @@
+@media screen and (min-width: 200px) and (max-width:481px) {
+    .card {width: 350px; height: 200px;}
+    .header-card img {width: 110px; height: 200px;}
+    .card-title {font-size: 15px; margin-top: -200px; margin-right: 110px;}
+    .card-price {font-size: 15px; margin-top: -15px; position: absolute; margin-right: 110px;}
+    .card-details {font-size: 12px; margin-top: 30px; margin-right: 110px;}
+    .btnorder {width: 30%; margin-right: 110px;}
+    .header-card {background-color: red; width: 110px; height: 200px;}
+}
