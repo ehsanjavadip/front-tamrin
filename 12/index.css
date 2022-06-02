@@ -1,0 +1,20 @@
+@import url('https://v1.fontapi.ir/css/Vazir');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Vazir;
+}
+
+/* ------------------------ */
+.calc {width: 500px; border-radius: 5px; background-color: #3e3e3e; margin-left: auto; margin-right: auto;padding-top: 30px; padding-bottom: 30px;  margin-top: 50px; text-align: center; color: white;}
+
+.calc h2 {font-weight: normal;}
+.calc p {margin-top: -20px; color: rgb(144, 144, 144); }
+
+.input {padding: 8px; border-radius: 2px; outline: none; border: none;  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); text-align: center; margin: 5px;}
+#txtresult {color: white; }
+
+.btn {padding: 15px; margin-top: 20px; font-size: 20px; cursor: pointer; border: none; outline: none; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 5px; background-color: #4b8ac9; color: white;} 
+
+.btn:hover {background-color: #4f96dd;}
